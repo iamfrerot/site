@@ -1,5 +1,5 @@
 function Highlightext({ text, styles }: { text: string; styles?: string }) {
- return <span className={`text-secondary ${styles}`}>{` ${text} `}</span>;
+ return <p className={`text-secondary font-bold ${styles}`}>{text}</p>;
 }
 
 export default Highlightext;
