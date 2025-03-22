@@ -65,7 +65,7 @@ export default async function HomePage({ searchParams }: PageProps) {
                     i&apos;m currently{" "}
                     <HighlightText>Software engineer</HighlightText> at{" "}
                     <Href to="https://gobi.rw">gobi.</Href> before that, i was{" "}
-                    <HighlightText>Junior Backend engineer</HighlightText> at{" "}
+                    <HighlightText>Backend engineer</HighlightText> at{" "}
                     <Href to="https://edencaremedical.com">
                       eden care medical.
                     </Href>
